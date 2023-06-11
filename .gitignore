@@ -9,3 +9,5 @@
 
 # .ppm image files
 *.ppm
+
+.vscode
